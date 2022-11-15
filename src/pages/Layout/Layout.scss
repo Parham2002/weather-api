@@ -1,0 +1,9 @@
+.header-container {
+    text-align: center;
+    text-decoration: none;
+
+    &__title {
+        padding: 10px;
+        border: 2px solid red;
+    }
+}
